@@ -15,6 +15,7 @@ use self::{
 };
 
 pub mod dependencies;
+pub mod interactive;
 pub mod orphans;
 pub mod structure;
 
